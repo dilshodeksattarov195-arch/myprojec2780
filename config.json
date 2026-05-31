@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpalidate",
+        "uuid": 19874220,
+        "checksum": "tlz9vj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
